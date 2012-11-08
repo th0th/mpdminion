@@ -4,7 +4,7 @@ MpdMinion is a simple shell script I wrote for Music Player Daemon (MPD) to jump
 
 ## Requirements
 
-* mpd (is it obvious right?)
+* mpd (it is obvious right?)
 * mpc
 * dmenu
 
